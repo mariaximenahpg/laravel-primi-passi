@@ -12,7 +12,7 @@
     <header>
         <h1 class="text-center">Hello World!</h1>
         <nav class="navbar navbar-light bg-light d-flex flex-row justify-content-center">
-            <ul class="navbar-brand mb-0 h1">
+            <ul class="mb-0">
                 <li><a href="/">Home</a></li>
             </ul>
         </nav>
